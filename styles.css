@@ -8,11 +8,6 @@ body {
   padding: 0;
   margin: 0;
   background-color: #eec8c8;
-  background-image: url("taustakuva.png");
-  background-repeat: no-repeat;
-  background-size: 20%;
-  background-position-x: left;
-  background-position-y:bottom;
 }
 
 .calculator-grid {
